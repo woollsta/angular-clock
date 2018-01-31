@@ -37,7 +37,7 @@
   "dependencies": {
     "angular": "^1.5.6",
     "angular-bootstrap": "^2.5.0",
-    "font-awesome": "~4.1.0",
+    "font-awesome": "~4.0",
     "rainbow": "~1.1.9"
   },
   "devDependencies": {
